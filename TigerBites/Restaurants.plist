@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>restaurants</key>
+	<array>
+		<dict>
+			<key>restaurantID</key>
+			<string>1</string>
+			<key>name</key>
+			<string>Brick City Café</string>
+			<key>latitude</key>
+			<string>43.084032</string>
+			<key>longitude</key>
+			<string>-77.674308</string>
+			<key>menu</key>
+			<dict>
+				<key>Soup</key>
+				<dict>
+					<key>Chicken Noodle</key>
+					<dict>
+						<key>description</key>
+						<string>Chicken Broth with yummy Noodles and Veggies</string>
+						<key>price</key>
+						<string>2.90</string>
+					</dict>
+					<key>Beef Vegetable</key>
+					<dict>
+						<key>description</key>
+						<string>Beef Broth and Veggies</string>
+						<key>price</key>
+						<real>2.9</real>
+					</dict>
+					<key>Minestrone</key>
+					<dict>
+						<key>description</key>
+						<string>RIT&apos;s Famous Recipe</string>
+						<key>price</key>
+						<string>2.90</string>
+					</dict>
+				</dict>
+				<key>food-bar</key>
+				<dict>
+					<key>Macaroni &amp; Cheese</key>
+					<dict>
+						<key>description</key>
+						<string>Baked Mac &amp; Cheese</string>
+						<key>price</key>
+						<real>4.75</real>
+					</dict>
+					<key>Chicken Wing Bar</key>
+					<dict>
+						<key>description</key>
+						<string>Rochester, BBQ and Buffalo wings - 2 of each per order</string>
+						<key>price</key>
+						<real>4.75</real>
+					</dict>
+				</dict>
+				<key>wraps</key>
+				<dict>
+					<key>BBQ Pork w/Rice &amp; Beans</key>
+					<dict>
+						<key>description</key>
+						<string>Wrap w/ Pork, Rice, Beans and your choice of additional condiments</string>
+						<key>price</key>
+						<real>3.55</real>
+					</dict>
+					<key>Chicken Caesar</key>
+					<dict>
+						<key>description</key>
+						<string>Wrap w/ Grilled Chicken, Ranch Dressing and your choice of additional condiments</string>
+						<key>price</key>
+						<real>3.55</real>
+					</dict>
+					<key>Buffalo Chicken</key>
+					<dict>
+						<key>description</key>
+						<string>Wrap w/ Grilled Chicken, Spicy Buffalo Sauce and your choice of additional condiments</string>
+						<key>price</key>
+						<string>3.55</string>
+					</dict>
+				</dict>
+				<key>grill</key>
+				<dict>
+					<key>Chicken Mushroom &amp; Swiss</key>
+					<dict>
+						<key>description</key>
+						<string>Grilled Chicken, Mushroom and Swiss Cheese on a Bun</string>
+						<key>price</key>
+						<real>5.75</real>
+					</dict>
+					<key>Chili Cheddar Burger</key>
+					<dict>
+						<key>description</key>
+						<string>Burger topped with Chili and Cheddar Jack Cheese</string>
+						<key>price</key>
+						<real>5.75</real>
+					</dict>
+					<key>Melt - Steakhouse Pot Roast</key>
+					<dict>
+						<key>description</key>
+						<string>Pot Roast with melted Cheddar Jack Cheese, Fresh Peppers and Onion</string>
+						<key>price</key>
+						<real>5.75</real>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>restaurantID</key>
+			<string>2</string>
+			<key>name</key>
+			<string>Commons</string>
+			<key>latitude</key>
+			<string>43.086591</string>
+			<key>longitude</key>
+			<string>-77.668941</string>
+			<key>menu</key>
+			<dict>
+				<key>Shumway Subs &amp; Salads</key>
+				<dict>
+					<key>Make your own Salad</key>
+					<dict>
+						<key>description</key>
+						<string>Select your Greens, Dressings and Toppings for the perfect Salad</string>
+						<key>price</key>
+						<string>4.75</string>
+					</dict>
+					<key>Make your own sub</key>
+					<dict>
+						<key>description</key>
+						<string>Select your Meat, Veggies, Cheese and Dressings for the perfect Sub</string>
+						<key>price</key>
+						<string>8.69</string>
+					</dict>
+				</dict>
+				<key> Hettie&apos;s Grill</key>
+				<dict>
+					<key>Fries</key>
+					<dict>
+						<key>description</key>
+						<string>French Fries, Large Order</string>
+						<key>price</key>
+						<string>3.55</string>
+					</dict>
+					<key>Grabage Plate</key>
+					<dict>
+						<key>description</key>
+						<string>1 Burger or 2 Hot Dogs, Fries and your choice of Coleslaw or Mac &amp; Cheese</string>
+						<key>price</key>
+						<string>5.75</string>
+					</dict>
+					<key>Chicken Wings</key>
+					<dict>
+						<key>description</key>
+						<string>Wings, with your choice of Plain, Buffalo, Boss, or BBQ sauce, order of 10</string>
+						<key>price</key>
+						<string>8.95</string>
+					</dict>
+				</dict>
+				<key>Pasta &amp; Pizza</key>
+				<dict>
+					<key>Cheese Pizza</key>
+					<dict>
+						<key>description</key>
+						<string>Largest Slice of Cheese Pizza on Campus</string>
+						<key>price</key>
+						<string>2.75</string>
+					</dict>
+					<key>Pepperoni Pizza</key>
+					<dict>
+						<key>description</key>
+						<string>Largest Slice of Pepperoni Pizza on Campus</string>
+						<key>price</key>
+						<string>2.75</string>
+					</dict>
+					<key>Pasta</key>
+					<dict>
+						<key>description</key>
+						<string>Make your own Pasta Dish - Comes with all available condiments and sauces</string>
+						<key>price</key>
+						<string>4.45</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>restaurantID</key>
+			<string>3</string>
+			<key>name</key>
+			<string>Crossroads</string>
+			<key>latitude</key>
+			<string>43.082611</string>
+			<key>longitude</key>
+			<string>-77.680024</string>
+			<key>menu</key>
+			<dict>
+				<key>Pasta &amp; Pizza</key>
+				<dict>
+					<key>Cheese Pizza</key>
+					<string></string>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
